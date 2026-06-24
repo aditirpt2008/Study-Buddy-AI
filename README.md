@@ -15,14 +15,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## How to earn later
 
-You can add:
-- Ads
-- Premium PDF upload
-- Paid monthly plan
-- Affiliate links
-- Subject-wise notes packs
 
 ## Note
 
